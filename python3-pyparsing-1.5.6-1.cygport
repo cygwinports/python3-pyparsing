@@ -1,5 +1,0 @@
-inherit python3-distutils
-
-HOMEPAGE="http://pyparsing.wikispaces.com/"
-
-DOCS="HowToUsePyparsing.html"

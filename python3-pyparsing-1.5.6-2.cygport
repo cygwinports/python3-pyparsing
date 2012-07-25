@@ -1,0 +1,10 @@
+inherit python3-distutils
+
+CATEGORY="Python"
+SUMMARY="Py3K grammar parsing module"
+DESCRIPTION="pyparsing is a general parsing module for Python. Grammars are
+implemented directly in the client code using parsing objects, instead
+of externally, as with lex/yacc-type tools."
+HOMEPAGE="http://pyparsing.wikispaces.com/"
+
+DOCS="HowToUsePyparsing.html"

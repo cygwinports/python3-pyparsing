@@ -1,6 +1,0 @@
-category: Python
-requires: python3
-sdesc: "Py3K grammar parsing module"
-ldesc: "pyparsing is a general parsing module for Python. Grammars are 
-implemented directly in the client code using parsing objects, instead 
-of externally, as with lex/yacc-type tools."
